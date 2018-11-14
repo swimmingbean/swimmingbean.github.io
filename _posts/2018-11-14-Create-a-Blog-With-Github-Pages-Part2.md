@@ -142,3 +142,8 @@ port: 4400
 
 Re-try `jekyll serve` after you finish changing the port or making the original
  port (4000) available
+
+## References
+ * [Tania Rascia: Make a static website with Jekyll](https://www.taniarascia.com/make-a-static-website-with-jekyll/)
+ * [Julia Evans: How to setup a blog in 5 minutes](https://jvns.ca/blog/2014/10/08/how-to-set-up-a-blog-in-5-minutes/)
+ * [Barry Clark: Build a blog with Jekyll and Github pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
