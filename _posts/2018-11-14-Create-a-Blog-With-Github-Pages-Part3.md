@@ -1,6 +1,6 @@
-# Create a Blog With GitHub Pages - Part 3
+# Add blog post
 
-Add posts to the blog created in [Create a Blog With GitHub Pages - Part 2]({{ site.baseurl }}{% post_url 2018-11-14-Create-a-Blog-With-Github-Pages-Part2 %})
+Add a post to the blog created in [Create a Blog With GitHub Pages - Part 2]({{ site.baseurl }}{% post_url 2018-11-14-Create-a-Blog-With-Github-Pages-Part2 %})
 
 1. First I’m going to remove the initial boilerplate post created by Jekyll
 ```

@@ -1,4 +1,4 @@
-# Create a Blog With GitHub Pages - Part 2
+# Setup standard blog functionality
 
 In [part 1]({{ site.baseurl }}{% post_url 2018-11-14-Create-a-Blog-With-Github-Pages-Part1 %}) we setup a basic html page to be hosted using Github pages. Now we
 will upgrade that basic page to have more blog functionality like blog posts,

@@ -1,5 +1,4 @@
-# Create a Blog With GitHub Pages - Part 1
-## Create a User Page in GitHub
+# Create a User Page in GitHub
 
 In the spirit of incremental improvements, we'll start blog creating by creating
  a simple "Hello World" page hosted using github pages
