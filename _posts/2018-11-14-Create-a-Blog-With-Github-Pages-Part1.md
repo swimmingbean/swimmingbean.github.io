@@ -1,9 +1,8 @@
 # Create a User Page in GitHub
 
-In the spirit of incremental improvements, we'll start blog creating by creating
- a simple "Hello World" page hosted using github pages
+In the spirit of incremental improvements, we'll start by creating a simple "Hello World" page hosted using github pages
 
-0. Create a [Github](https://github.com/) account if you dont already have one.
+0. Create a [Github](https://github.com/) account if you don't already have one.
 1. [Create GitHub repo](https://help.github.com/articles/create-a-repo/) with the following name: `<github-username>.github.io`
 2. Clone the repo to your local machine
 ```bash
