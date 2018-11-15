@@ -24,9 +24,9 @@ select a DB appropriate for your needs.
 
 | Benefits | Caveats |
 | :------- | :------ |
-| * highly structured data | * fixed schema - schema changes require schema to versioned and some procedure to migrate data  when schema is updated|
-| * can be queried by SQL | |
-| * good for data integrity ||
+| highly structured data | fixed schema - schema changes require schema to versioned and some procedure to migrate data  when schema is updated|
+| can be queried by SQL | |
+| good for data integrity ||
 
 ### Document Oriented database:
 * Non-relational database
@@ -35,9 +35,9 @@ select a DB appropriate for your needs.
 
 | Benefits | Caveats |
 | :------- | :------ |
-| * good for semi-structured or unstructured data | * does not exhibit ACID properties |
-| * individual documents can have structure but the structure is not required to be uniform across all documents ||
-| * easy to scale horizontally ||
+| good for semi-structured or unstructured data | does not exhibit ACID properties |
+| individual documents can have structure but the structure is not required to be uniform across all documents ||
+| easy to scale horizontally ||
 
 
 ### Key-value database:
@@ -49,10 +49,10 @@ select a DB appropriate for your needs.
 
 | Benefits | Caveats |
 | :------- | :------ |
-| * No fixed schema | * Cannot query data by value or part of value. Eg: return all entries that contain the text "Apple" |
-| * This model lends itself to scale horizontally by distributing data over many machines | * Difficult to edit values. Not good for data that is changing frequently |
-| * Ease of data distribution makes it easy to scale DB on demand and to make the DB highly available | * Not all data can be modeled as key-value pairs |
-| * Well suited to storing unstructured data| |
+| No fixed schema | Cannot query data by value or part of value. Eg: return all entries that contain the text "Apple" |
+| This model lends itself to scale horizontally by distributing data over many machines | Difficult to edit values. Not good for data that is changing frequently |
+| Ease of data distribution makes it easy to scale DB on demand and to make the DB highly available | Not all data can be modeled as key-value pairs |
+| Well suited to storing unstructured data| |
 
 ### Graph database:
 * Data is stored as a set of nodes and a set of edges
@@ -62,7 +62,7 @@ select a DB appropriate for your needs.
 
 | Benefits | Caveats |
 | :------- | :------ |
-| * good for highly interconnected data - ie frequent many-to-many relationships | |
+| good for highly interconnected data - ie frequent many-to-many relationships | |
 | | |
 
 ### Wide Column store database:
