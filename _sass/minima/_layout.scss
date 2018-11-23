@@ -5,6 +5,7 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
+  font-family: $title-font-family;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -216,11 +217,13 @@
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+  font-family: $post-meta-font-family;
 }
 
 .post-link {
   display: block;
   @include relative-font-size(1.5);
+  font-family: $post-list-item-font-family;
 }
 
 
