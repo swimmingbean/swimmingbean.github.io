@@ -1,3 +1,7 @@
+---
+layout: post
+title: Create A Blog With Github Pages Part3
+---
 # Add blog post
 
 Add a post to the blog created in [Create a Blog With GitHub Pages - Part 2]({{ site.baseurl }}{% post_url 2018-11-14-Create-a-Blog-With-Github-Pages-Part2 %})

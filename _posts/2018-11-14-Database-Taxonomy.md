@@ -1,3 +1,7 @@
+---
+layout: post
+title: Database Taxonomy
+---
 # Making sense of the many different databases
 
 (!) WORK IN PROGRESS
