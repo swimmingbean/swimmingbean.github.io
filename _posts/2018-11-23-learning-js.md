@@ -1,0 +1,11 @@
+---
+layout: post
+title: Learning Javascript
+---
+# Javascript has become my Krebs cycle
+
+Krebs cycle popped up in the syllabus towards the end of the Biochemistry course. At that point I was so overloaded with work, that I didn't read through it properly and store it in my brain by understanding it. I instead took the shortcut of memorizing the required info (names of each molecule in the cycle) for the final exam. That strategy worked so far as it got me through the exam with good grades. Then next semester Krebs cycle reared its head again. This time I needed to know the chemical structure of each molecule in the cycle. A course after that Krebs cycle popped up yet again, this time with the requirement that I know the step-by-step chemical mechanism of every reaction in the cycle. By this time I hated the Krebs cycle and did poorly on all Krebs cycle questions because I cheaped out on that building that initial foundation knowledge in my brain. The only way to progress was to go back and start over with the basics.
+
+Javascript is my new Krebs cycle. I never learnt Javascript formally. I just got to know it through bug fixing at work and some minor pet projects. I knew enough to get the job done, but I don't have the proper mental foundation on which I can layer on more information like nuances of the many frontend frameworks out there now. To get that foundation I either need to spend a lot more time working on more complex frontend code or I need to go back to the basics and learn things a bit more formally. I'm taking the latter route right now and signed up for this [Coursera HTML, CSS and Javascript course](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/info).
+
+I have now completed the first week of material. It starts with the basics, which is perfect for my needs. I now have a clearer mental model for things I was familiar with before. It's also quite quick to go through. Because I've seen this material before, I can use the trick of playing the lecture videos at great than 1x speed for most of it. I drop the speed back down or re-listen to some things as needed. For hands on practice of week 1 material, I re-styled this blog by customizing the HTML and CSS. I'm waiting till I complete the Javascript portion of the course to add the Javascript bits I want for the blog.
