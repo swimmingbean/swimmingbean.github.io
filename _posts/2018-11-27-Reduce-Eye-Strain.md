@@ -22,4 +22,6 @@ as a snack. The sweetness of the dates and the bitterness of walnuts make for a 
 
 7. Check the positioning of your monitor. The height of the monitor, distance from your eyes, angle relative to your body and position relative to windows and room lights can all affect the amount of strain viewing the monitor places on your body. [Monitor positioning ](https://ergo-plus.com/office-ergonomics-position-computer-monitor/)
 
-8. Try "computer glasses". These have some combination of anti-glare coating, a mild red tint and/or a slight magnification. I've got these, but I admit it feels a bit strange and I frequently forget to put them on when working. 
+8. Try "computer glasses". These have some combination of anti-glare coating, a mild red tint and/or a slight magnification. I've got these, but I admit it feels a bit strange and I frequently forget to put them on when working.
+
+9. If you are looking for a new monitor. [This article](https://www.slothygeek.com/best-monitor-for-eyes/) covers what to look for in a monitor to have the least eye strain.
