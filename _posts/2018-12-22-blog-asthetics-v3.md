@@ -34,6 +34,9 @@ For the first customization I added a navigation sidebar and updated the fonts, 
 * Get rid of the sidebar in favor of header and footer navbars / nav links
 * Find a different way to add color and style
   * One option is to place my post content on a card. In this case I have the background, card background and possibly a card shadow to play with in addition to font color.
+  * I've poked around a few other blogs to see what other people are doing. One that stood out for me (as always :) ) is [Julia Evans' blog](https://jvns.ca/).
+    * I like that her content is on a panel that doesn't fill the screen width. This allows her to use the background behind the panel as one source of color.
+    * I also like the orange vertical ribbon. Unlike the page header this ribbon continues to be visible as you scroll down the page and is a source of color even as you scroll down. This ribbon shows up in all screen widths except the narrowest ones. Lastly I like that the ribbon is a pattern instead of a solid color. I think this adds a lot of subtle depth and interest.
 * Spend more time coming up with color and format of elements within the post such as:
   * code snippet boxes background color and syntax highlighting colors
   * tables: format, color of alternate row highlighting
