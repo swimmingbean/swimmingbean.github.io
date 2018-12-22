@@ -4,7 +4,7 @@ title: Blog Asthetics v3
 ---
 
 # v1
-The blog started out with the minima theme that comes default with github pages.
+I started this blog with the minima theme that comes default with github pages.
 Minima looks something like this:
 ![]({{ site.baseurl }}/images/blog-design-v3/minima-theme.png)
 
