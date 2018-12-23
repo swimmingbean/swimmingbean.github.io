@@ -17,7 +17,7 @@ expresses the my main message and have a single "call to action" button undernea
 
 * * *
 
-The list of posts layout options below can be used in conjunction with one of the above options. The list of posts can begin below the jumbotron and the list of posts can be one of these options. If I continue with having a plain list of posts as the blog landing page then the options below can be the landing page in its entirety or these can be used in conjunction with one of the above options. Or the list of posts could be entirely separate page from the landing page.
+The list of posts layout options below can be used in conjunction with one of the above options. The list of posts can begin below the jumbotron and the list of posts can be one of these options. If I continue with having a plain list of posts as the blog landing page then the options below can be the landing page in its entirety or the list of posts could be separate page linked from the landing page.
 
 * * *
 
