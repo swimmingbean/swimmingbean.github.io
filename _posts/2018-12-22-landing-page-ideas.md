@@ -8,12 +8,12 @@ I read a couple of articles on blog landing page layouts and these discouraged h
 
 ## Landing Page - Option 1: Jumbotron Image
 <img align="right" height="150" width="200" src="{{ site.baseurl }}/images/landing-page-layouts/landing-page-idea1.png">This large banner should convey some sentiment that
-expresses the my main message and have a single "call to action" button underneath. Something like "LEARN MORE" or "GET STARTED TODAY" or in the case of a blog this might just be a link to the posts. I dont like the experience of having to go to a second page to see the list of posts so if I went with this option, I would put the list of posts beneath the banner so the user just scroll down to get to the meat of the site.
+expresses the my main message and have a single "call to action" button underneath. Something like "LEARN MORE" or "GET STARTED TODAY" or in the case of a blog this might just be a link to the posts. I don't like the experience of having to go to a second page to see the list of posts so if I went with this option, I would put the list of posts beneath the banner so the user just scroll down to get to the meat of the site.
 
 * * *
 
 ## Landing Page - Option 2: Jumbotron with image + intro/bio
-<img align="left" height="150" width="200" src="{{ site.baseurl }}/images/landing-page-layouts/landing-page-idea2.png"> This option is similar to the first option in that both open to a large banner with the list of posts starting underneath and continuing off-screen. If I had some important introductory verbage like a biography or myself or an introduction to my blog contents or blog vision then I could have the jumbotron consist of an image on one side with the short paragraph on the other. The image could be an image of myself if I wanted to use have the blog also act as a personal webpage.
+<img align="left" height="150" width="200" src="{{ site.baseurl }}/images/landing-page-layouts/landing-page-idea2.png"> This option is similar to the first option in that both open to a large banner with the list of posts starting underneath and continuing off-screen. If I had some important introductory verbiage like a biography or myself or an introduction to my blog contents or blog vision then I could have the jumbotron consist of an image on one side with the short paragraph on the other. The image could be an image of myself if I wanted to use have the blog also act as a personal webpage.
 
 * * *
 
