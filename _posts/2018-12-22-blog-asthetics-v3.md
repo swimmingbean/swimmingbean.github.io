@@ -28,6 +28,8 @@ For the first customization I added a navigation sidebar and updated the fonts, 
 
 * The yellow bullets I'm using disappear into the background color
 
+* The color scheme isn't quite working for me. For example in the post content, black looks too harsh for the font color, especially for the headings
+
 # v3 - What's next?
 * Get rid of the sidebar in favor of header and footer navbars / nav links
 * Find a different way to add color and style
