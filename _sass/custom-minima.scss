@@ -2,20 +2,16 @@
 
 // Define defaults for each variable.
 
-$base-font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$title-font-family: 'Montserrat';
+$title-font-family: 'Raleway';
 
-$heading-font-family: 'Montserrat';
-$subheading-font-family: 'Montserrat';
-
-$sidebar-background-color: #7d8185;
-$sidebar-title-font-family: 'Playfair Display';
-$sidebar-accent-color: #ffb603;
+$post-content-headings-font-family: 'Raleway';
+$post-content-title-font-family: 'Raleway';
 
 $post-list-item-font-family: 'Montserrat';
 $post-meta-font-family: 'Open Sans';
@@ -23,7 +19,7 @@ $post-meta-font-family: 'Open Sans';
 $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
-$background-color: #f5fafa, #f1f2e4 #fdfdfd !default;
+$background-color: #f1f2e4 #fdfdfd !default;
 $brand-color:      #2a7ae2 !default;
 
 $code-background-color: #eef;
@@ -66,7 +62,6 @@ $on-large:         $on-laptop !default;
 @import
   "minima/base",
   "minima/layout",
-  "minima/syntax-highlighting",
-  "minima/sidebar"
+  "minima/syntax-highlighting"
 ;
-@import url('https://fonts.googleapis.com/css?family=Raleway|Montserrat|Open+Sans|Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Raleway|Montserrat|Open+Sans');
