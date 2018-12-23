@@ -7,7 +7,7 @@ I read a couple of articles on blog landing page layouts and these discouraged h
 * * *
 
 ## Landing Page - Option 1: Jumbotron Image
-<img align="right" height="200" width="200" src="{{ site.baseurl }}/images/landing-page-layouts/landing-page-idea1.png">This large banner should convey some sentiment that
+<img align="right" height="150" width="200" src="{{ site.baseurl }}/images/landing-page-layouts/landing-page-idea1.png">This large banner should convey some sentiment that
 expresses the my main message and have a single "call to action" button underneath. Something like "LEARN MORE" or "GET STARTED TODAY" or in the case of a blog this might just be a link to the posts. I dont like the experience of having to go to a second page to see the list of posts so if I went with this option, I would put the list of posts beneath the banner so the user just scroll down to get to the meat of the site.
 
 * * *
