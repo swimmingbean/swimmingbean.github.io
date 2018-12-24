@@ -43,5 +43,6 @@ For the first customization I added a navigation sidebar and updated the fonts, 
   * icon used for bullet points
   * horizontal rule
 * Experiment with a wide variety of color palettes and how the color palette is applied to various elements of the blog.
-  * See [my next post]({{ site.baseurl }}{% post_url 2018-12-22-experiments-with-color-palettes %})
+  * See [color experiments on dummy sites]({{ site.baseurl }}{% post_url 2018-12-22-experiments-with-color-palettes %})
+  * See [color experiments on this blog]({{ site.baseurl }}{% post_url 2018-12-23-experiments-with-color-palettes2 %})
 * Look at [different options]({{ site.baseurl }}{% post_url 2018-12-22-landing-page-ideas %}) for layout of the blog landing page.
