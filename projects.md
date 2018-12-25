@@ -4,4 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-TODO add links to descriptions of previous projects here
+Under Construction
+
+
+![]({{ site.baseurl }}/images/under-construction.png)
