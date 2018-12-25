@@ -19,7 +19,7 @@
     margin-bottom: 10px;
 
     @include media-query($on-palm) {
-        height: 50px;
+        height: 70px;
     }
 }
 
@@ -150,6 +150,10 @@
   .sblogo {
     height: 80px;
     float: right;
+
+    @include media-query($on-palm) {
+        height: 50px;
+    }
   }
 
   p {
@@ -180,8 +184,7 @@
 }
 
 .footer-col {
-  width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-  width:         calc(100% - (#{$spacing-unit} / 2));
+  float: left;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
 }
@@ -191,30 +194,6 @@
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
   width:         calc(50% - (#{$spacing-unit} / 2));
 }
-
-.footer-col-2 {
-  width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-  width:         calc(100% - (#{$spacing-unit} / 2));
-}
-
-@media screen and (min-width: $on-large) {
-  .footer-col-1 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
-  }
-
-  .footer-col-2 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
-  }
-}
-
-@media screen and (min-width: $on-medium) {
-  .footer-col {
-    float: left;
-  }
-}
-
 
 
 /**
