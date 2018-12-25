@@ -112,7 +112,7 @@ a {
   }
 
   &:hover {
-    color: $text-color;
+    color: lighten($brand-color, 15%);;
     text-decoration: underline;
   }
 
@@ -130,8 +130,8 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
+  color: $block-quote-text-color;
+  border-left: 4px solid $block-quote-bar-color;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
   letter-spacing: -1px;
@@ -150,7 +150,7 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.9375);
-  border: 1px solid $grey-color-light;
+  border: 1px solid $line-border-light;
   border-radius: 3px;
 }
 
@@ -172,7 +172,7 @@ pre {
 
 
 /**
- * Wrapper
+ *
  */
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
@@ -207,15 +207,6 @@ pre {
 /**
  * Icons
  */
-
- .orange {
-   color: $orange-color;
- }
-
- .grey {
-   color: $grey-color;
- }
-
 .svg-icon {
     width: 16px;
     height: 18px;
@@ -239,9 +230,8 @@ table {
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
-  color: lighten($text-color, 18%);
   border-collapse: collapse;
-  border: 1px solid $grey-color-light;
+  border: 1px solid $line-border-light;
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
@@ -253,7 +243,7 @@ table {
     text-transform: uppercase;
   }
   td {
-    border: 1px solid $grey-color-light;
+    border: 1px solid $line-border-light;
   }
 }
 
