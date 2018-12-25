@@ -148,7 +148,8 @@
   padding: ($spacing-unit/4) 0;
 
   .logo {
-    height: 75px;
+    height: 80px;
+    float: right;
   }
 
   p {
@@ -194,7 +195,6 @@
 .footer-col-2 {
   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
   width:         calc(100% - (#{$spacing-unit} / 2));
-  text-align: right;
 }
 
 @media screen and (min-width: $on-large) {
