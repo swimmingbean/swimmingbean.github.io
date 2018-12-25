@@ -11,6 +11,18 @@
   position: relative;
 }
 
+.logo {
+    height: 100px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+
+    @include media-query($on-palm) {
+        height: 50px;
+    }
+}
+
 .site-title {
   @include relative-font-size(2.65);
   font-weight: 300;
@@ -77,6 +89,7 @@
   }
 
   .page-link {
+    @include relative-font-size(1.25);
     color: $text-color;
     line-height: $base-line-height;
     display: block;
@@ -119,6 +132,12 @@
   }
 }
 
+.more-link {
+    @include relative-font-size(1.125);
+    font-family: 'Raleway';
+    text-align: center;
+}
+
 
 
 /**
@@ -126,7 +145,19 @@
  */
 .site-footer {
   border-top: 1px solid $line-border-light;
-  padding: ($spacing-unit/2) 0;
+  padding: ($spacing-unit/4) 0;
+
+  .logo {
+    height: 75px;
+  }
+
+  p {
+    margin-bottom: $spacing-unit / 8;
+  }
+
+  .page-link {
+    @include relative-font-size(1.25);
+  }
 }
 
 .footer-heading {
@@ -160,7 +191,7 @@
   width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
-.footer-col-3 {
+.footer-col-2 {
   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
   width:         calc(100% - (#{$spacing-unit} / 2));
   text-align: right;
@@ -168,18 +199,13 @@
 
 @media screen and (min-width: $on-large) {
   .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
   }
 
   .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
-  }
-
-  .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
   }
 }
 
@@ -205,6 +231,7 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
+  text-align: center;
 }
 
 .post-list {
@@ -212,7 +239,7 @@
   list-style: none;
 
   > li {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit/2;
   }
 }
 
@@ -224,7 +251,7 @@
 
 .post-link {
   display: block;
-  @include relative-font-size(1.25);
+  @include relative-font-size(1.5);
   font-family: $post-list-item-font-family;
 }
 
