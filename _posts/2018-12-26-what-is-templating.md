@@ -197,7 +197,7 @@ Jinja, Django, Angular, Moustache, HandleBar ... there are dozens of them and th
 * Who is maintainging the code for this templating engine?
 * Cost and licensing of the templating engine?
 
-Check out [this article](https://engineering.linkedin.com/frontend/client-side-templating-throwdown-mustache-handlebars-dustjs-and-more))
+Check out [this article](https://engineering.linkedin.com/frontend/client-side-templating-throwdown-mustache-handlebars-dustjs-and-more)
  from LinkedIn for an evaluation and comparison of templating engines.
 
 Wikipedia has [this table](https://en.wikipedia.org/wiki/Comparison_of_web_template_engines) comparing several web
