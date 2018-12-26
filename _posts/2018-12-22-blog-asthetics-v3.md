@@ -19,9 +19,10 @@ The blog started with the Jekyll's default [Minima theme](https://github.com/jek
 
 
 ## v2 - Nov 2018
-I added in a navigation sidebar that was taken from the [Hyde Jekyll theme](http://hyde.getpoole.com/).
-The sidebar element gave the the opportunity to add a big swatch of color
- to the page, however the sidebar didnt turn out to be a sensible element for screens of varying width.
+For the first customization I added a navigation sidebar taken from the [Hyde theme](http://hyde.getpoole.com/).
+I also updated the fonts, font colors and background colors based on font combinations and color palettes put together
+ by [Niki Ram](https://nikiworks.wordpress.com/author/nikiram95/).
+![]({{ site.baseurl }}/images/blog-design-v3/niki-color-palettes.png)
 
 | ![]({{ site.baseurl }}/images/blog-design-v3/v2-home-page.png) | ![]({{ site.baseurl }}/images/blog-design-v3/v2-sample-post.png) |
 |:--:|:--:|
@@ -38,8 +39,6 @@ The sidebar element gave the the opportunity to add a big swatch of color
 * More than 70% of the time content is viewed on a mobile device. In this screen width the sidebar is not constantly visible and no longer provides the same pop of color.
 
 * The yellow bullets I'm using disappear into the background color
-
-* The color scheme isn't quite working for me. For example in the post content, black looks too harsh for the font color, especially for the headings
 
 ## v3 - What's next?
 * Get rid of the sidebar in favor of header and footer navbars / nav links
