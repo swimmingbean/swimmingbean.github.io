@@ -19,7 +19,7 @@ $post-meta-font-family: 'Open Sans';
 $spacing-unit:     30px !default;
 
 // Colors
-$brand-color:      #4484c3 !default;
+$brand-color:      #3275B3 !default;
 $text-color:       #262626 !default;
 $background-color: #fefefe !default;
 
@@ -27,7 +27,7 @@ $line-border-color: #828282 !default;
 $line-border-light: lighten($line-border-color, 40%) !default;
 $line-border-dark:  darken($line-border-color, 25%) !default;
 
-$block-quote-text-color: #8bacbd;
+$block-quote-text-color: $brand-color;
 $block-quote-bar-color: lighten($block-quote-text-color, 25%);  // should be a little lighter than the quote text
 
 $table-headrow-background-color: #eaeaea;
