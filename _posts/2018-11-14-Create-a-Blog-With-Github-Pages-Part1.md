@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Create A Blog With Github Pages Part1
+categories: [ themakingof ]
 ---
 ## Create a User Page in GitHub
 

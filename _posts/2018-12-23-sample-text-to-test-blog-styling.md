@@ -2,6 +2,7 @@
 layout: post
 title: Sample Text to Preview Post Style
 permalink: /sample-text
+categories: [ themakingof ]
 ---
 This is some sample text that contains all the basic markdown elements. This page is useful to preview the style configurations used in this site
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blog Layout Ideas
+categories: [ themakingof ]
 ---
 I read a couple of articles on blog landing page layouts and these discouraged having a list of posts as the landing page for the blog. I'm in two minds on the subject. I like some of the other landing page layouts because they're flashier and more stylish which appeals to the part of me that likes pretty things. I like having a list of posts on the landing page because that's the meat of the blog and I don't like to wade through a lot of pointless flash to get to the main content.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Experiments With Web Color Palettes
+categories: [ themakingof ]
 ---
 I've noticed that given a web color palette that I like, it is non-trivial to take that palette and map it onto the elements in my page. I can’t always capture the same feeling of the palette in my page. Sometimes the proportions are wrong. I might apply the accent color to section headings but my content just doesn’t have enough section headings to produce a pleasant effect or my content has so many section headings the accent color looks garish.
 

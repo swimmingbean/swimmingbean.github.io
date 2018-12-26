@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Create A Blog With Github Pages Part3
+categories: [ themakingof ]
 ---
 # Add blog post
 

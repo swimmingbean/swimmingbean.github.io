@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blog Asthetics v3
+categories: [ themakingof ]
 ---
 
 ## v0 - Nov 2018

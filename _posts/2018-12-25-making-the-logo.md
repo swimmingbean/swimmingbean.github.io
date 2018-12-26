@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Creating the site logo
+categories: [ themakingof ]
 ---
 
 ## The Concept

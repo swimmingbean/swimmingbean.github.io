@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Experiments With Web Color Palettes 2
+categories: [ themakingof ]
 ---
 
 Trying out the pre-made web-palettes on the blog now.

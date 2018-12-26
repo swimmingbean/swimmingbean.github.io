@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Create A Blog With Github Pages Part2
+categories: [ themakingof ]
 ---
 # Setup standard blog functionality
 
