@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Asthetics v3
+title: Blog Design Evolution
 categories: [ themakingof ]
 ---
 
